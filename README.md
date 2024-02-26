@@ -1,4 +1,4 @@
-# RA-Crop-Monitoring-Smart-Agriculture-Project-1
+# RA-Crop-Monitoring-Smart-Agriculture-Project-2
 
 Crop Monitoring and Smart Agriculture Projects Using AI and GIS
 
